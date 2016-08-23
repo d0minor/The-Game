@@ -1,0 +1,3 @@
+class Creature < Card
+
+end

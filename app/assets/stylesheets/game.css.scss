@@ -1,0 +1,50 @@
+#cardInfo{
+	background-color: darkblue;
+	position: relative;
+	height: auto;
+	min-height: 800px;
+	width: auto;
+	
+}
+
+.gameZone{
+	background-color: skyblue;
+	position: relative;
+	height: 400px;
+	width: auto;
+	border: 2px solid grey;
+}
+
+.nomargins{
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+.battleZone{
+	border-bottom: 1px solid grey;
+	height: 133px;
+}
+
+.shieldZone{
+	border-bottom: 1px solid grey;
+	height: 133px;
+
+}
+
+.manaZone{
+	border-bottom: 1px solid grey;
+	height: 133px;
+
+}
+
+.deck{
+	background-color: lightgrey;
+	height: 130px;
+	border: 1px solid grey;
+}
+
+.grave{
+	background-color: lightgrey;
+	height: 130px;	
+	border: 1px solid grey;
+}
